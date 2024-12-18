@@ -2,3 +2,6 @@
 	path = 003 Code/back-end-python
 	url = https://github.com/leesu9042/livinglab.git
 
+[submodule "003 Code/back-end/python-server"]
+	path = 003 Code/back-end/python-server
+	url = https://github.com/leesu9042/livinglab.git
